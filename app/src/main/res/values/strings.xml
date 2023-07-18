@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Geofence app</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    SHA1 certificate fingerprint: 54:A1:A5:44:B8:3D:4D:AD:98:F8:B2:8C:84:BE:49:CB:94:DE:73:71
+
+    <string name= "my_map_api_key"> templateMergeStrategy = "preserve" translatable = "false">AIzaSyAdd-HsoBXmyp992OmusPCuunooqXPpTKU</string>
+
+</resources>
